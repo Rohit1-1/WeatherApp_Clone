@@ -5,7 +5,8 @@
 }
 .gmap_canvas {
 overflow:hidden;
-background:none!important;     
+background:none!important;  
+   
 }
 .frame{
 width: 100%;
@@ -17,7 +18,6 @@ display:block;
 }
 #parent{
 width: 100%;
-border: 1px solid black;
 position: relative;
 height: 644px;
 }
