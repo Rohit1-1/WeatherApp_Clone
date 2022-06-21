@@ -12,7 +12,7 @@ It gives you the weather details of present day along with future forecast of se
 # Funtionality 🤖
 * Seach by geolocation.
 * Search by input.
-* note :- suitable for small screen
+* note :- not suitable for small screen
 
 # Screenshots 🖼️
 
